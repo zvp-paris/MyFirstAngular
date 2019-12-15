@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "theRealWashing": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "theRealWashing"
+    }
+  },
+  "defaultProject": "theRealWashing",
+  "cli": {
+    "analytics": "0f2f7c96-315f-4efe-acf2-c914e68ab208"
+  }
 }
